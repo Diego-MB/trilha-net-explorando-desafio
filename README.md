@@ -20,8 +20,11 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 
--[X] Verificar se a capacidade é maior ou igual ao número de hóspedes que suíte suporta
--[X] Retornar uma exception caso a capacidade seja menor que o número de hóspedes
--[X] Retorna a quantidade de hóspedes
--[X] Retorna o valor da diária
--[X] Caso os dias reservados forem maior ou igual a 10, dar desconto 10%
+
+<ul style="list-style-type:none">
+  <li>[X] Verificar se a capacidade é maior ou igual ao número de hóspedes que suíte suporta</li>
+  <li>[X] Retornar uma exception caso a capacidade seja menor que o número de hóspedes</li>
+  <li>[X] Retorna a quantidade de hóspedes</li>
+  <li>[X] Retorna o valor da diária</li>
+  <li>[X] Caso os dias reservados forem maior ou igual a 10, dar desconto 10%</li>
+</ul>
